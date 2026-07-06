@@ -25,6 +25,12 @@ An end-to-end data analytics project analyzing **11+ million restaurant orders**
 - **Weekday orders (2.15M)** slightly outperform Weekend orders (1.94M)
 
 ## 📁 Project Structure
+├── SQL/
+│   ├── 01_create_table.sql
+│   └── 02_alter_table.sql
+├── Dashboard/
+│   └── Restaurant_Dashboard.pbix
+└── README.md
 ## 🚀 How to Run
 1. Run SQL scripts in order (`01` → `02`)
 2. Load data using Python scripts
