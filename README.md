@@ -16,6 +16,9 @@ An end-to-end data analytics project analyzing **11+ million restaurant orders**
 | Customer Behavior | Peak Hours, Weekday vs Weekend, Order Type distribution |
 | Branch & Operations | Branch comparison, Peak Hours, Avg Order Value |
 | Customer Satisfaction | Rating distribution, trends, and order type analysis |
+## 📸 Dashboard Preview
+![Overview](images/overview.png)
+![Financial Performance](images/financial.png)
 
 ## 🔍 Key Insights
 - **القاهرة** is the highest revenue branch with **0.47bn EGP**
