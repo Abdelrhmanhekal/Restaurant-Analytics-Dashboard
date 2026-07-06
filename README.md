@@ -17,9 +17,11 @@ An end-to-end data analytics project analyzing **11+ million restaurant orders**
 | Branch & Operations | Branch comparison, Peak Hours, Avg Order Value |
 | Customer Satisfaction | Rating distribution, trends, and order type analysis |
 ## 📸 Dashboard Preview
-![Overview](images/overview.png)
-![Financial Performance](images/financial.png)
-
+![Overview](images/Overview.png)
+![Financial Performance](images/Financial%20Performance.png)
+![Customer Behavior](images/Customer%20Behavior.png)
+![Branch & Operations](images/Branch%20%26%20Operations.png)
+![Customer Satisfaction](images/Customer%20Satisfaction.png)
 ## 🔍 Key Insights
 - **القاهرة** is the highest revenue branch with **0.47bn EGP**
 - **Cash** is the dominant payment method at **40.53%**
