@@ -1,0 +1,14 @@
+-- Add Derived Columns
+ALTER TABLE Restaurant_Final
+ADD year INT,
+    month INT,
+    day_name VARCHAR(20),
+    weeklabel VARCHAR(10)
+
+-- Populate Derived Columns
+UPDATE Restaurant_Final
+SET 
+    year = YEAR(order_date),
+    month = MONTH(order_date),
+    day_name = DATENAME(WEEKDAY, order_date),
+    weeklabel = CASE WHEN is_weekend = 1 THEN 'Weekend' ELSE 'Weekday' END
